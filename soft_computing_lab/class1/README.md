@@ -15,14 +15,14 @@ Implementing 2 input OR Gate
 
 | result  | 
 | -------------    | 
-| ![](./results/2_feature.png )| width=100 | 
+| ![](./results/2_feature.png )| width=50 | 
 
 Implementing 3 input OR Gate
 (Truth table similar to the one given above)
 
 | result  | 
 | -------------    | 
-| ![](./results/3_feature.png )| width=100 | 
+| ![](./results/3_feature.png )| width=50 | 
 
 ## Requirements:
 1. MATLAB
