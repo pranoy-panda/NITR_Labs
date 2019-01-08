@@ -4,16 +4,19 @@
 | -------------    | 
 | ![](./results/perceptron.png) | 
 
-Implementing 2 input OR Gate
+## Implementing 2 input OR Gate
 
-| X1            | X2            |            Q |              |
-| ------------- | ------------- |------------- |------------- |
-| -1            | -1            |-1 | ![](./results/2_feature.png)|
-| -1            | 1             |1  |                                 |
-|  1            | -1            |1  |                                 |
-|  1            | 1             |1  |                                 |
+| X1            | X2            |            Q |
+| ------------- | ------------- |------------- |
+| -1            | 1             |1  |                                 
+|  1            | -1            |1  |                                 
+|  1            | 1             |1  |                                
+| result  | 
+| -------------    | 
+| ![](./results/2_feature.png ) | 
 
-Implementing 3 input OR Gate
+## Implementing 3 input OR Gate
+(Truth table similar to the one given above)
 
 | result  | 
 | -------------    | 
