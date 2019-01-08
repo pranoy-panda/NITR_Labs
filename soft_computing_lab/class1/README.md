@@ -1,4 +1,4 @@
-# Implementation of a single layer perceptron
+# Implementation of a single layer perceptron (via Logic Gates)
 
 | Perceptron  | 
 | -------------    | 
@@ -13,14 +13,12 @@ Implementing 2 input OR Gate
 |  1            | -1            |1             |                                 
 |  1            | 1             |1             |  
 
-| result  | 
+| classifying points in parameter space  | 
 | -------------    | 
 | ![](./results/2_feature.png )| width=50 | 
 
-Implementing 3 input OR Gate
-(Truth table similar to the one given above)
 
-| result  | 
+| classifying points in parameter space for 3 input OR gate  | 
 | -------------    | 
 | ![](./results/3_feature.png )| width=50 | 
 
