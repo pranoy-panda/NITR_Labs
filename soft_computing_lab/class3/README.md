@@ -4,7 +4,7 @@
 | -------------    | 
 | ![](./results/xor_2.png) | 
 
-Implementing 2 input OR Gate
+Implementing 2 input EXOR Gate
 
 | X1            | X2            |            Q |
 | ------------- | ------------- |------------- |
