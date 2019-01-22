@@ -1,6 +1,6 @@
 # Multi-Layer Perceptron
 
-| Perceptron  | 
+| Multi-Layer Architecture  | 
 | -------------    | 
 | ![](./results/xor_2.png) | 
 
@@ -8,10 +8,10 @@ Implementing 2 input OR Gate
 
 | X1            | X2            |            Q |
 | ------------- | ------------- |------------- |
-|  -1           |- 1            |-1            |    
-| -1            | 1             |1             |                                 
-|  1            | -1            |1             |                                 
-|  1            | 1             |1             |  
+|  0            | 0             |0             |    
+| 0             | 1             |1             |                                 
+|  1            | 0             |1             |                                 
+|  1            | 1             |0             |  
 
 | classifying points in parameter space  | 
 | -------------    | 
